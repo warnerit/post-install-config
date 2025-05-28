@@ -44,6 +44,26 @@ To create a new team, navigate to Agents → Teams. By default, a Level I Suppor
 ![image](https://github.com/user-attachments/assets/2bcb37f3-077f-4a84-8d47-4a9c7380db94)
 </p>
 <p>
+Now it's time to create Agents. Agents are the helpdesk staff responsible for handling and resolving support tickets. Each agent is assigned a primary department and a primary role that determines their permissions for tickets routed to that department.
+Agents can also be granted access to additional departments and may have different roles depending on the department they’re working in. You can configure an agent’s permissions, department access, and team membership under the Agents tab.
+</p>
+<br />
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/6f9554c1-91c2-4b6c-81f5-6cf7f1db0f80)
+</p>
+<p>
+Once you’ve created your agents, the next step is to add users. Users are the customers who submit support tickets when they encounter issues. Each user is identified by their email address.
+To create a new user, go to Agent Panel → Users → User Directory → Add New.
+</p>
+<br />
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/4b210757-851a-45ce-987a-6fb76c38d560)
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
