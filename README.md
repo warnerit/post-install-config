@@ -64,22 +64,24 @@ To create a new user, go to Agent Panel → Users → User Directory → Add New
 ![image](https://github.com/user-attachments/assets/4b210757-851a-45ce-987a-6fb76c38d560)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+SLA Plans define the expected time frame in which the help desk should resolve a ticket. To create an SLA Plan, navigate to Admin Panel → Manage → SLA Plans.
+Each SLA Plan includes a schedule and a grace period—the time allowed to respond or resolve a ticket within that schedule.
+For example, an SLA Plan named SEV-A might operate on a 24/7 schedule with a one-hour grace period for ticket resolution.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/6b2c2683-cfed-4893-a08c-20b212e96599)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Help Topics allow users to categorize their tickets, ensuring they’re routed to the appropriate department or team for faster resolution.
+For example, you might create a help topic called "Business Critical Outage" to cover situations where customers are unable to access essential services like mobile banking.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+![image](https://github.com/user-attachments/assets/7a5a55a8-3131-435b-9a04-5248213d046f)
 </p>
 <br />
